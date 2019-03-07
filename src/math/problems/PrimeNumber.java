@@ -1,4 +1,6 @@
 package math.problems;
+import java.util.ArrayList;
+import java.util.List;
 
 public class PrimeNumber {
 
@@ -13,6 +15,17 @@ public class PrimeNumber {
 		 *
 		 */
 
-	}
+		int counter = 0;
 
-}
+		List<Integer> list = new ArrayList<>();
+		for (int i = 2; i < 1000000; i++) {
+			//if (int i) {
+				list.add(i);
+				System.out.println(i);
+				counter++;
+
+
+			}
+
+		}
+	}

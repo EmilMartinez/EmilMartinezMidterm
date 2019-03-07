@@ -2,10 +2,10 @@ package design;
 
 public interface Employee {
 
-	public int employeeId();
-	public String employeeName();
-    public void assignDepartment();
-	public int calculateSalary();
-	public void benefitLayout();
+	public int EmployeeId();
+	public String EmployeeName();
+    public void AssignDepartment();
+	public int CalculateSalary();
+	public void BenefitLayout();
 
 }

@@ -8,6 +8,9 @@ public class Pattern {
 		 *
 		 *
 		 */
+
+		for(int i = 0; i<100; i=2*0-1);
+
 		
 
 

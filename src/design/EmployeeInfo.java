@@ -2,7 +2,7 @@ package design;
 
 import java.util.Scanner;
 
-public class EmployeeInfo implements Employee {
+public class EmployeeInfo {
 
 	static String companyName;
 	
